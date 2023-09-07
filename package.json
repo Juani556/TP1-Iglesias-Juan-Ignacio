@@ -1,0 +1,13 @@
+{
+  "name": "tp1-manejo-de-archivos",
+  "version": "1.0.0",
+  "description": "Trabajo Practico 1 Iglesias, Juan Ignacio",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node test/test.js"
+  },
+  "author": "Iglesias, Juan Ignacio",
+  "license": "ISC"
+}
